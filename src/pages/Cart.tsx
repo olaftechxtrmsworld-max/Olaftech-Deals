@@ -87,7 +87,7 @@ export default function Cart() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href={`https://wa.me/2348000000000?text=${whatsappMessage}`}
+                  href={`https://wa.me/2349132696440?text=${whatsappMessage}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full inline-flex items-center justify-center gap-2 px-5 py-3 rounded-lg bg-green-600 hover:bg-green-700 text-white font-bold text-sm transition-colors"

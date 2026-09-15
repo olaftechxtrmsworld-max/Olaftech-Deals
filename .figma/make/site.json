@@ -1,0 +1,10 @@
+{
+  "description": "Discover and shop a wide range of quality laptops, smartphones, and tech accessories at OLAFTECH DEALS, your trusted source for original tech deals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
